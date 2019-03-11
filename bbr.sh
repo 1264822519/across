@@ -4,9 +4,9 @@
 #
 # System Required:  CentOS 6+, Debian7+, Ubuntu12+
 #
-# Copyright (C) 2016-2018 Teddysun <i@teddysun.com>
+# Copyright (C) 2016-2018 smallxublog <admin@smallxu.me>
 #
-# URL: https://teddysun.com/489.html
+# URL: https://smallxu.me/linux/363.html
 #
 
 red='\033[0;31m'
